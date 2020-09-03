@@ -1,0 +1,61 @@
+body{
+    background: #6d6875;
+}
+.nav1{
+    
+    background: #B5838D;
+    
+      
+}
+.navbar a{
+    color: #6d6875;
+    font-weight: bold;
+}
+.nbar{
+    justify-content: space-evenly;
+    background: #B5838D;
+}
+.nbar a{
+    color: #4d1937;
+}
+.c11 p{
+    color:#1A1423;
+    font-weight: bold;
+    text-align: justify;
+    
+}
+.c2{
+    color: #B5838D;
+    background: #1A1423;
+}
+.c3{
+    color: #1A1423;
+}
+.c3 a{
+    color: #4d1937;
+}
+.c31{
+    color: #1A1423;
+}
+.c4{
+    color: #B5838D;
+    background: #1A1423;
+}
+.c4 a{
+    color: #B5838D;
+}
+.uitext{
+    color: #1A1423;
+}
+.contactList{
+    justify-content: space-around;
+}
+
+@media only screen and (max-width:1050px){
+    .navbarr{
+        display: none;
+    }
+    .contactList{
+        flex-direction: column;
+    }
+}
