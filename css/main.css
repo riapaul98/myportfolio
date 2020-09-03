@@ -58,4 +58,7 @@ body{
     .contactList{
         flex-direction: column;
     }
+    .uitext{
+        font-size: x-large;
+    }
 }
